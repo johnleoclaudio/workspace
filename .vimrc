@@ -14,6 +14,7 @@ set nobackup
 set undodir=~/.vim/undodir
 set undofile
 set incsearch
+set hls
 
 set cmdheight=2
 
@@ -28,3 +29,4 @@ call plug#end()
 
 colorscheme gruvbox
 set background=dark
+
